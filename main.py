@@ -77,6 +77,6 @@ def boom(phone):
 # 程序主入口
 if __name__ == "__main__":
     # get_cookie()
-    boom("phone1")
+    boom("15003467655")
     boom("phone2")
 
